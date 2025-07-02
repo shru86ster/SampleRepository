@@ -59,6 +59,13 @@ public class APINewTests extends BaseTest {
 
     @Test(description="newtest",dataProvider="pagenumber",groups="Smoke")
     @Parameters({"page","pagenum"})
+    public void masterdem(Object page,Object pagenum)
+    {
+
+
+    }
+    @Test(description="newtest",dataProvider="pagenumber",groups="Smoke")
+    @Parameters({"page","pagenum"})
     public void DemoAPI(Object page,Object pagenum) {
         HashMap<String, String> headers = new HashMap<>();
         headers.put("Content-type", "application/json");
