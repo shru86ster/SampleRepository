@@ -48,16 +48,14 @@ public class APINewTests extends BaseTest {
         System.out.println(obj[2][1]);
         return obj;
     }
-
-
-    @Test(description="newtest",dataProvider="pagenumber",groups="Smoke")
-    @Parameters({"page","pagenum"})
-    public void featuredemo(Object page,Object pagenum)
+    @Test(description="demofeature",dataProvider="pagenumber",groups="Smoke")
+    public void samplestest()
     {
 
     }
 
-    @Test(description="newtest",dataProvider="pagenumber",groups="Smoke")
+
+    @Test(description="demo1",dataProvider="pagenumber",groups="Smoke")
     @Parameters({"page","pagenum"})
     public void DemoAPI(Object page,Object pagenum) {
         HashMap<String, String> headers = new HashMap<>();
