@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API TestingSuite" parallel="classes" thread-count="2">
+    <groups>
+        <run>
+            <include name="Regression"/>
+            <include name="Smoke"/>
+        </run>
+    </groups>
+    <test name="TestProject">
+        <classes>
+            <class name="API_A_Tests.APITests" />
+            <class name="API_A_Tests.SampleAPITests" />
+        </classes>
+    </test>
+</suite> <!-- Suite -->
