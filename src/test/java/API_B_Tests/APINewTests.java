@@ -49,13 +49,15 @@ public class APINewTests extends BaseTest {
         return obj;
     }
 
-    @Test(dataProvider="pagenumber",groups="Smoke")
+
+    @Test(description="newtest",dataProvider="pagenumber",groups="Smoke")
     @Parameters({"page","pagenum"})
-    public void DemoAPIa(Object page,Object pagenum) {
+    public void featuredemo(Object page,Object pagenum)
+    {
 
     }
 
-    @Test(description="demo1",dataProvider="pagenumber",groups="Smoke")
+    @Test(description="newtest",dataProvider="pagenumber",groups="Smoke")
     @Parameters({"page","pagenum"})
     public void DemoAPI(Object page,Object pagenum) {
         HashMap<String, String> headers = new HashMap<>();
@@ -92,6 +94,9 @@ public class APINewTests extends BaseTest {
         //validate the response body
 
     }
+
+
+
 
 
 }
