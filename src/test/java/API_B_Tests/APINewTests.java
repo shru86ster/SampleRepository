@@ -48,11 +48,7 @@ public class APINewTests extends BaseTest {
         System.out.println(obj[2][1]);
         return obj;
     }
-    @Test(description="demofeature",dataProvider="pagenumber",groups="Smoke")
-    public void samplestest()
-    {
 
-    }
 
     @Test(description="second feature",dataProvider="pagenumber",groups="Smoke")
     public void sample1stest()
@@ -60,10 +56,8 @@ public class APINewTests extends BaseTest {
 
     }
 
-
-    @Test(description="demo1",dataProvider="pagenumber",groups="Smoke")
-    @Parameters({"page","pagenum"})
-    public void masterdem(Object page,Object pagenum)
+    @Test(description="final check",dataProvider="pagenumber",groups="Smoke")
+    public void samplefinalstest()
     {
 
     }
