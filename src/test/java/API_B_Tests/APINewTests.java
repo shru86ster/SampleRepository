@@ -60,7 +60,6 @@ public class APINewTests extends BaseTest {
     public void masterdem(Object page,Object pagenum)
     {
 
-
     }
     @Test(description="newtest",dataProvider="pagenumber",groups="Smoke")
     @Parameters({"page","pagenum"})
