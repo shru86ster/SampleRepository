@@ -55,11 +55,11 @@ public class APINewTests extends BaseTest {
     }
 
 
-    @Test(description="demo1",dataProvider="pagenumber",groups="Smoke")
+    @Test(description="demo1final",dataProvider="pagenumber",groups="Smoke")
     @Parameters({"page","pagenum"})
-    public void masterdem(Object page,Object pagenum)
+    public void masterfinaldem(Object page,Object pagenum)
     {
-
+        System.out.println("chekcing");
     }
     @Test(description="newtest",dataProvider="pagenumber",groups="Smoke")
     @Parameters({"page","pagenum"})
