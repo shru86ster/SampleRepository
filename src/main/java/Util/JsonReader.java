@@ -12,6 +12,7 @@ import java.util.List;
 import static Util.FileHandling.ReadJson;
 
 public class JsonReader {
+    //Read from the filepath provided
     public static List<Object> getJsonArray(String jsonfilepath, String arrayJsonPath)
     {
         String jsoncontent=FileHandling.ReadJson(jsonfilepath);
