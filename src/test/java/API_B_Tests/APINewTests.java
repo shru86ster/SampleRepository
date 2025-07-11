@@ -100,9 +100,7 @@ public class APINewTests extends BaseTest {
         //String gender=jsonpath.getString("results[0].gender");
 
         //assertThat(gender,equalTo("male"));
-
         //validate the response body
-
     }
 
 
