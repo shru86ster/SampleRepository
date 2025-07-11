@@ -1,0 +1,81 @@
+commit 0c3e26c747c27c5cac9cd8ea1e8dd676e492d459
+Merge: 435a8b9 d4269f8
+Author: TI Test <titest@TIs-MacBook-Pro.local>
+Date:   Thu Jul 3 09:33:38 2025 +0530
+
+    merged changes from feature and master
+
+commit 435a8b9871bf0e8c2d3a78352e044a694689da46
+Author: TI Test <titest@TIs-MacBook-Pro.local>
+Date:   Thu Jul 3 09:19:32 2025 +0530
+
+    master check
+
+commit d4269f8e82bbddb55b316fadd6ee0ee098437fd4
+Author: TI Test <titest@TIs-MacBook-Pro.local>
+Date:   Thu Jul 3 09:18:30 2025 +0530
+
+    feature check
+
+commit 755618c08a45c401b641e155fae86151e1e90c38
+Merge: 84910e1 1b943c4
+Author: TI Test <titest@TIs-MacBook-Pro.local>
+Date:   Thu Jul 3 08:44:15 2025 +0530
+
+    Merge
+
+commit 84910e1c1330cec35d85c327d8e80c33131d9b0e
+Author: TI Test <titest@TIs-MacBook-Pro.local>
+Date:   Thu Jul 3 08:36:00 2025 +0530
+
+    faeture changes
+
+commit 1b943c431c4f6e7e6ca7822036d24ed3efca53c9
+Author: TI Test <titest@TIs-MacBook-Pro.local>
+Date:   Thu Jul 3 08:34:16 2025 +0530
+
+    master changes
+
+commit e415c0e7e9b33dbfa34940c1faf22e3912dfcc35
+Merge: 6449c05 d2af7c1
+Author: TI Test <titest@TIs-MacBook-Pro.local>
+Date:   Wed Jul 2 19:28:29 2025 +0530
+
+    master commit
+
+commit 6449c0563b008f21313e56c0e9376d5eff643cee
+Author: TI Test <titest@TIs-MacBook-Pro.local>
+Date:   Wed Jul 2 19:27:38 2025 +0530
+
+    master commit
+
+commit d2af7c1f5479fb32298280241e97da53d36481d8
+Author: TI Test <titest@TIs-MacBook-Pro.local>
+Date:   Wed Jul 2 19:26:03 2025 +0530
+
+    second feature commit
+
+commit 8ee8b48f6c6bf6e7aee8300b4f11698da424854b
+Merge: 1c784e7 1d5010f
+Author: TI Test <titest@TIs-MacBook-Pro.local>
+Date:   Wed Jul 2 19:19:25 2025 +0530
+
+    resolved confliects
+
+commit 1c784e7bb84897f4ccfa92e92d813662a7577316
+Author: TI Test <titest@TIs-MacBook-Pro.local>
+Date:   Wed Jul 2 19:13:21 2025 +0530
+
+    updated changes in master
+
+commit 1d5010fd7ef865a0989941db144179cf7a725d74
+Author: TI Test <titest@TIs-MacBook-Pro.local>
+Date:   Wed Jul 2 19:10:44 2025 +0530
+
+    commit from feature
+
+commit 875a281ed22aea5e8249dc2638db36dec0bb6ade
+Author: TI Test <titest@TIs-MacBook-Pro.local>
+Date:   Wed Jul 2 17:55:30 2025 +0530
+
+    First Commit
